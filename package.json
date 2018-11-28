@@ -1,0 +1,32 @@
+{
+  "name": "rest-api",
+  "version": "0.0.1",
+  "description": "This Rest API for MY Angular2 Projects.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Shashank Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/debug-agent": "^2.5.0",
+    "angular-cli": "^1.0.0-beta.28.3",
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.14.0",
+    "formidable": "^1.2.1",
+    "moment": "^2.22.2",
+    "mongodb": "^2.2.19",
+    "cluster": "^0.7.7",
+    "http": "0.0.0",
+    "socket.io": "^2.1.1",
+    "sticky-session": "^1.1.2",
+    "socket.io-redis": "^5.2.0"
+  }
+}
